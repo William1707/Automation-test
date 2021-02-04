@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="U Test" tests="1" skipped="1" failures="0" errors="0" timestamp="2021-02-04T02:49:54" hostname="EMPDESARROLLO10" time="22.098">
+  <properties/>
+  <testcase name="Log in in my store" classname="U Test" time="22.098">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[?[32m.?[0m?[32m.?[0m?[33mP?[0m]]></system-out>
+  <system-err><![CDATA[feb 03, 2021 9:49:54 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 87.0.4280.88 (89e2380a3e36c3464b5dd1302349b1382549290d-refs/branch-heads/4280@{#1761}) on port 28518
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1612406997.762][WARNING]: This version of ChromeDriver has not been tested with Chrome version 88.
+feb 03, 2021 9:49:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
